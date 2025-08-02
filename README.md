@@ -1,4 +1,3 @@
-// filepath: /Users/ayushtripathi/ChatBot/crm-chatbot-assistant/README.md
 # CRM Chatbot Assistant
 
 A modern CRM chatbot application built with FastAPI backend and Streamlit frontend, connected to MongoDB Atlas for lead management.
