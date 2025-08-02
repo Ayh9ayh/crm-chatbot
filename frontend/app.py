@@ -182,7 +182,7 @@ if user_input or search_button:
             try:
                 # Send request as JSON instead of params
                 response = requests.post(
-                    "https://crm-chatbot-production.up.railway.app/chat/"", 
+                    "https://crm-chatbot-production.up.railway.app/chat/", 
                     json={"query": user_input},
                     headers={"Content-Type": "application/json"}
                 )
